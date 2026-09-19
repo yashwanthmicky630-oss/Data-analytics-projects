@@ -1,5 +1,5 @@
 # 📊 Data Analytics Projects Portfolio
-### Yashwanth M | BCA Graduate | Aspiring Data Analyst | Hubli
+### Yashwanth M | BCA Graduate | Aspiring Data Analyst | bangalore
 
 **About Me:**
 - 🎓 BCA - 6.0 CGPA | 12th - 76.66% (CS: 96, Accountancy: 94)
@@ -21,6 +21,6 @@
 Python | SQL | Power BI | Excel
 
 ## 📫 Contact
-GitHub: yashwanthmicky630-oss | kolar, Karnataka
+GitHub: yashwanthmicky630-oss | Bangalore, Karnataka
 
 ⭐ Recruiters: Check my projects!
