@@ -21,6 +21,6 @@
 Python | SQL | Power BI | Excel
 
 ## 📫 Contact
-GitHub: yashwanthmicky630-oss | Hubli, Karnataka
+GitHub: yashwanthmicky630-oss | kolar, Karnataka
 
 ⭐ Recruiters: Check my projects!
